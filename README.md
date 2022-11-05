@@ -1,2 +1,3 @@
 # Credit_Risk_Scoring
-Scoring Model 4 creditability prediction
+The analysis on variables' significance and discriminatory power. 
+The aim: to identify correlations btw independent variables and target Default variable.
